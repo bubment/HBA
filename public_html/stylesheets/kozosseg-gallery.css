@@ -52,3 +52,14 @@ body {
 }
 
 /* loader ellips in separate pen CSS */
+
+
+
+.gallery-item{
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.gallery-item img{
+  padding: 5px;
+}
