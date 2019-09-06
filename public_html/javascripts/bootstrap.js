@@ -614,7 +614,7 @@
   * ==================== */
 
   $.fn.collapse.noConflict = function () {
-    $.fn.collapse = old
+    $.fn = old
     return this
   }
 
